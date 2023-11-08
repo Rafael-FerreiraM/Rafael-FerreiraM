@@ -6,6 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
 </div>
 
  <br>
