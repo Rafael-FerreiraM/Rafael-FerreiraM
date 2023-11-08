@@ -11,8 +11,8 @@ I'm Rafael, a C# and .NET developer with a passion for creating innovative softw
 
 * Proficient in C#, .NET Framework, and .NET Core
 * Experienced in ASP.NET MVC and Web API development
-* Familiar with SQL Server and NoSQL databases
-* Experience with cloud platforms such as Azure and AWS
+* Familiar with SQL Server and other databases
+
 
 **Contact Me:**
 
