@@ -3,25 +3,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-FerreiraM&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<div align="center"><br>
-  <img align="center" alt="C#" height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET Core" height="30" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt=".NET" height="30" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
-</div>
-
 <br>
 
-### Sobre Mim:
+I'm Rafael, a C# and .NET developer with a passion for creating innovative software solutions. I'm always eager to learn new technologies and expand my skillset.
 
-- Olá! Meu nome é Rafael  e sou um desenvolvedor C# e .NET.
+**Technical Skills:**
 
-### Para entrar em contato comigo:
+* Proficient in C#, .NET Framework, and .NET Core
+* Experienced in ASP.NET MVC and Web API development
+* Familiar with SQL Server and NoSQL databases
+* Experience with cloud platforms such as Azure and AWS
 
-<div align="center"> 
-  <a href="https://instagram.com/rafael.ferreira8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelferreirameloh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:fmelo20a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+**Contact Me:**
 
-<br>
+* [Instagram](https://instagram.com/rafael.ferreira8)
+* [LinkedIn](https://www.linkedin.com/in/rafaelferreirameloh)
+* [Email](fmelo20a@gmail.com)
 
+**Projects:**
+
+* [Project 1](https://github.com/Rafael-FerreiraM/project1)
+* [Project 2](https://github.com/Rafael-FerreiraM/project2)
+* [Project 3](https://github.com/Rafael-FerreiraM/project3)
+
+I'm always looking for new opportunities to collaborate and learn from others. Feel free to reach out if you have any questions or project ideas.
