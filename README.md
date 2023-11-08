@@ -13,7 +13,7 @@
 
 ### Sobre Mim:
 
-- Olá! Meu nome é Rafael Ferreira e sou um desenvolvedor apaixonado por C# e .NET.
+- Olá! Meu nome é Rafael  e sou um desenvolvedor C# e .NET.
 
 ### Para entrar em contato comigo:
 
@@ -24,8 +24,4 @@
 </div>
 
 <br>
-
-<div align="center">
-  ![Snake animation](https://github.com/Rafael-FerreiraM/Rafael-FerreiraM/blob/output/github-contribution-grid-snake.svg)
-</div>
 
