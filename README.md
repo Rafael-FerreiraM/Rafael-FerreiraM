@@ -1,7 +1,13 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I am a .NET C# developer with a passion for tackling complex challenges through programming. I am enthusiastic about exploring new technologies and leveraging them to craft top-notch solutions. Currently, I am a mid-level backend developer with a focus on web development.</p>&nbsp;
+<p align="center">
+  I am a <strong>.NET C# developer</strong> with a passion for tackling complex challenges through programming.
+  <br>
+  I am enthusiastic about exploring new technologies and leveraging them to craft top-notch solutions.
+  <br>
+  Currently, I am a <strong>mid-level backend developer</strong> with a focus on web development.
+</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
