@@ -2,9 +2,11 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
- <strong>.NET C# developer</strong> with a passion for tackling complex challenges through programming. Enthusiastic about exploring new technologies and leveraging them to craft top-notch solutions.
+ <strong>.NET C# developer</strong> with a passion for tackling complex challenges through programming.
+ <br>
+ Enthusiastic about exploring new technologies and leveraging them to craft top-notch solutions.
   <br>
-  Currently, I am a <strong>mid-level backend developer</strong> with a focus on web development.
+  Currently, I am a <strong>mid-level backend developer</strong> with a focus on .NET solutions.
 </p>&nbsp;
 
 
