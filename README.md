@@ -2,11 +2,13 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
- <strong>Java developer</strong> with a passion for tackling complex challenges through programming.
- <br>
- Enthusiastic about exploring new technologies and leveraging them to craft top-notch solutions.
-  <br>
-  Currently, I am a <strong>mid-level backend developer</strong> with a focus on Java solutions.
+Passionate QA Analyst with a knack for testing and automation.
+<br>
+Highly motivated by the thrill of solving complex problems through programming.
+<br>
+Eager to explore new technologies and harness their potential to create exceptional solutions.
+<br>
+Currently, I am a mid-level QA Tester with a focus on automation.
 </p>&nbsp;
 
 
@@ -24,8 +26,6 @@
 
 #### Main Stack:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)&nbsp;
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)&nbsp;
