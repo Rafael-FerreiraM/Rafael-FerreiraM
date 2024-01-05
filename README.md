@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Passionate QA Analyst with a knack for testing and automation.
+Passionate T.I Analyst with a knack for testing and automation.
 <br>
 Highly motivated by the thrill of solving complex problems through programming.
 <br>
