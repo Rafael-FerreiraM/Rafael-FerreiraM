@@ -2,13 +2,13 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Passionate T.I Analyst with a knack for testing and automation.
+Passionate Software Developer with a knack for testing and automation.
 <br>
 Highly motivated by the thrill of solving complex problems through programming.
 <br>
 Eager to explore new technologies and harness their potential to create exceptional solutions.
 <br>
-Currently, I am a mid-level QA Tester with a focus on automation.
+Currently, I am a mid-level developer.
 </p>&nbsp;
 
 
