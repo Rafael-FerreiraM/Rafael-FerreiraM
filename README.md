@@ -13,7 +13,7 @@ Currently, I am a mid-level developer.
 
 
 <div  align="center" style="margin-bottom:100px">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rafael-FerreiraM)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rafael-FerreiraM"/></a>
 <img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-FerreiraM&layout=compact&langs_count=6&theme=radical"/>
  </div>
  
