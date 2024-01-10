@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Passionate Software Developer with a knack for testing and automation.
+Passionate Software Developer with a knack for development.
 <br>
 Highly motivated by the thrill of solving complex problems through programming.
 <br>
@@ -13,7 +13,7 @@ Currently, I am a mid-level developer.
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rafael-FerreiraM&theme=radical&mode=weekly" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Rafael-FerreiraM)](https://git.io/streak-stats)
 <img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-FerreiraM&layout=compact&langs_count=6&theme=radical"/>
  </div>
  
