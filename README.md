@@ -13,7 +13,7 @@ Currently, I am a mid-level developer.
 
 
 <div  align="center" style="margin-bottom:100px">
-![Rafael-FerreiraM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafael-FerreiraM&theme=tokyonight&hide_border=true)
+<img width= 40% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-FerreiraM&theme=tokyonight&hide_border=true"/>
 <img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-FerreiraM&layout=compact&langs_count=6&theme=radical"/>
  </div>
  
