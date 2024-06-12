@@ -2,13 +2,11 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Passionate Software Developer with a knack for development.
+Data Analyst | Passionate about leveraging data to drive insights and inform decision-making.
 <br>
-Highly motivated by the thrill of solving complex problems through programming.
+Highly motivated by the challenge of uncovering hidden patterns and transforming data into actionable solutions. 
 <br>
-Eager to explore new technologies and harness their potential to create exceptional solutions.
-<br>
-Currently, I am a mid-level developer.
+Eager to learn new technologies and stay at the forefront of the data analysis field.
 </p>&nbsp;
 
 
