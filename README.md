@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Software Engineer Student| Passionate about leveraging data to drive insights for inform decision-making and programming frameworks.
+Software Engineer Student | Passionate about leveraging data to drive insights for inform decision-making and programming frameworks.
 <br>
 Highly motivated by the challenge of programming and transforming data into actionable solutions. 
 <br>
