@@ -2,12 +2,12 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Software Engineer Student 
- Passionate about leveraging data to drive insights for inform decision-making and programming frameworks.
+Software Engineer
+ Passionate about programming new solutions for different type of problems.
 <br>
-Highly motivated by the challenge of programming and transforming data into actionable solutions. 
+Highly motivated by the challenge of programming and transforming tech into life solutions. 
 <br>
-Eager to learn advanced programming techniques and stay at the forefront of the data analysis field. 
+Eager to learn advanced programming techniques and stay at the forefront of the development field. 
 </p>&nbsp;
 
 
@@ -26,12 +26,9 @@ Eager to learn advanced programming techniques and stay at the forefront of the 
 #### Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
@@ -58,7 +55,6 @@ Eager to learn advanced programming techniques and stay at the forefront of the 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Workstation Tools:
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 
