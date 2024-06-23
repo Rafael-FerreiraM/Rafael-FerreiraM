@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Software Engineer
+Back-End developer
  Passionate about programming new solutions for different type of problems.
 <br>
 Highly motivated by the challenge of programming and transforming tech into life solutions. 
