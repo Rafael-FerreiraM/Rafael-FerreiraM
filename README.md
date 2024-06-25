@@ -2,8 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Back-End developer
- Passionate about programming new solutions for different type of problems.
+Back-End developer.Passionate about programming new solutions for different type of problems.
 <br>
 Highly motivated by the challenge of programming and transforming tech into life solutions. 
 <br>
@@ -70,6 +69,9 @@ Eager to learn advanced programming techniques and stay at the forefront of the 
 </div>&nbsp;&nbsp;
  
 
-  
+  <p align="center"> 
+  Contagem de pessoas que visualizaram esse perfil: <br>
+  <img src="https://profile-counter.glitch.me/Rafael-FerreiraM/count.svg" />
+</p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
