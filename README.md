@@ -70,7 +70,7 @@ Eager to learn advanced programming techniques and stay at the forefront of the 
  
 
   <p align="center"> 
-  Contagem de pessoas que visualizaram esse perfil: <br>
+Profile View Count: <br>
   <img src="https://profile-counter.glitch.me/Rafael-FerreiraM/count.svg" />
 </p>
   
